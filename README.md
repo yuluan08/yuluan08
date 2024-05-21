@@ -7,6 +7,8 @@
 
 - 🔭 I’m currently working on [School of Artificial Intelligence, Nankai University](https://ai.nankai.edu.cn/)
 
+- 🌱 I’m currently learning **deep reinforcement learning and trajectory planning**
+
 - 📫 How to reach me **yuluan08@163.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -21,6 +23,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yuluan08&show_icons=true&locale=en" alt="yuluan08" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yuluan08&" alt="yuluan08" /></p>
+
 
 
 <!---
