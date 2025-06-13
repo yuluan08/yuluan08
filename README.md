@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [School of Artificial Intelligence, Nankai University](https://ai.nankai.edu.cn/)
 
-- 🌱 I’m currently learning **deep reinforcement learning and trajectory planning**
+- 🌱 I’m currently learning **trajectory planning and cooperative control**
 
 - 📫 How to reach me **yuluan08@163.com**
 
